@@ -1,0 +1,1502 @@
+[
+  {
+    "gloss": "thanksgiving",
+    "label": 86,
+    "detected": 17,
+    "fallback": 6,
+    "centre": 9,
+    "total": 32,
+    "det_rate": 0.53125,
+    "video_ok": true
+  },
+  {
+    "gloss": "medicine",
+    "label": 61,
+    "detected": 11,
+    "fallback": 8,
+    "centre": 13,
+    "total": 32,
+    "det_rate": 0.34375,
+    "video_ok": true
+  },
+  {
+    "gloss": "yes",
+    "label": 99,
+    "detected": 26,
+    "fallback": 6,
+    "centre": 0,
+    "total": 32,
+    "det_rate": 0.8125,
+    "video_ok": true
+  },
+  {
+    "gloss": "give",
+    "label": 44,
+    "detected": 13,
+    "fallback": 13,
+    "centre": 6,
+    "total": 32,
+    "det_rate": 0.40625,
+    "video_ok": true
+  },
+  {
+    "gloss": "work",
+    "label": 96,
+    "detected": 24,
+    "fallback": 4,
+    "centre": 4,
+    "total": 32,
+    "det_rate": 0.75,
+    "video_ok": true
+  },
+  {
+    "gloss": "fine",
+    "label": 39,
+    "detected": 8,
+    "fallback": 14,
+    "centre": 10,
+    "total": 32,
+    "det_rate": 0.25,
+    "video_ok": true
+  },
+  {
+    "gloss": "mother",
+    "label": 63,
+    "detected": 8,
+    "fallback": 14,
+    "centre": 10,
+    "total": 32,
+    "det_rate": 0.25,
+    "video_ok": true
+  },
+  {
+    "gloss": "kiss",
+    "label": 53,
+    "detected": 19,
+    "fallback": 5,
+    "centre": 8,
+    "total": 32,
+    "det_rate": 0.59375,
+    "video_ok": true
+  },
+  {
+    "gloss": "right",
+    "label": 75,
+    "detected": 6,
+    "fallback": 12,
+    "centre": 14,
+    "total": 32,
+    "det_rate": 0.1875,
+    "video_ok": true
+  },
+  {
+    "gloss": "dark",
+    "label": 30,
+    "detected": 14,
+    "fallback": 13,
+    "centre": 5,
+    "total": 32,
+    "det_rate": 0.4375,
+    "video_ok": true
+  },
+  {
+    "gloss": "cheat",
+    "label": 19,
+    "detected": 32,
+    "fallback": 0,
+    "centre": 0,
+    "total": 32,
+    "det_rate": 1.0,
+    "video_ok": true
+  },
+  {
+    "gloss": "wrong",
+    "label": 97,
+    "detected": 19,
+    "fallback": 8,
+    "centre": 5,
+    "total": 32,
+    "det_rate": 0.59375,
+    "video_ok": true
+  },
+  {
+    "gloss": "language",
+    "label": 54,
+    "detected": 32,
+    "fallback": 0,
+    "centre": 0,
+    "total": 32,
+    "det_rate": 1.0,
+    "video_ok": true
+  },
+  {
+    "gloss": "before",
+    "label": 6,
+    "detected": 23,
+    "fallback": 4,
+    "centre": 5,
+    "total": 32,
+    "det_rate": 0.71875,
+    "video_ok": true
+  },
+  {
+    "gloss": "before",
+    "label": 6,
+    "detected": 22,
+    "fallback": 4,
+    "centre": 6,
+    "total": 32,
+    "det_rate": 0.6875,
+    "video_ok": true
+  },
+  {
+    "gloss": "want",
+    "label": 91,
+    "detected": 8,
+    "fallback": 14,
+    "centre": 10,
+    "total": 32,
+    "det_rate": 0.25,
+    "video_ok": true
+  },
+  {
+    "gloss": "thanksgiving",
+    "label": 86,
+    "detected": 16,
+    "fallback": 9,
+    "centre": 7,
+    "total": 32,
+    "det_rate": 0.5,
+    "video_ok": true
+  },
+  {
+    "gloss": "play",
+    "label": 72,
+    "detected": 12,
+    "fallback": 12,
+    "centre": 8,
+    "total": 32,
+    "det_rate": 0.375,
+    "video_ok": true
+  },
+  {
+    "gloss": "accident",
+    "label": 0,
+    "detected": 10,
+    "fallback": 12,
+    "centre": 10,
+    "total": 32,
+    "det_rate": 0.3125,
+    "video_ok": true
+  },
+  {
+    "gloss": "cook",
+    "label": 24,
+    "detected": 14,
+    "fallback": 11,
+    "centre": 7,
+    "total": 32,
+    "det_rate": 0.4375,
+    "video_ok": true
+  },
+  {
+    "gloss": "dog",
+    "label": 34,
+    "detected": 17,
+    "fallback": 11,
+    "centre": 4,
+    "total": 32,
+    "det_rate": 0.53125,
+    "video_ok": true
+  },
+  {
+    "gloss": "short",
+    "label": 80,
+    "detected": 10,
+    "fallback": 11,
+    "centre": 11,
+    "total": 32,
+    "det_rate": 0.3125,
+    "video_ok": true
+  },
+  {
+    "gloss": "but",
+    "label": 14,
+    "detected": 16,
+    "fallback": 9,
+    "centre": 7,
+    "total": 32,
+    "det_rate": 0.5,
+    "video_ok": true
+  },
+  {
+    "gloss": "many",
+    "label": 60,
+    "detected": 23,
+    "fallback": 9,
+    "centre": 0,
+    "total": 32,
+    "det_rate": 0.71875,
+    "video_ok": true
+  },
+  {
+    "gloss": "yes",
+    "label": 99,
+    "detected": 19,
+    "fallback": 10,
+    "centre": 3,
+    "total": 32,
+    "det_rate": 0.59375,
+    "video_ok": true
+  },
+  {
+    "gloss": "paper",
+    "label": 69,
+    "detected": 12,
+    "fallback": 8,
+    "centre": 12,
+    "total": 32,
+    "det_rate": 0.375,
+    "video_ok": true
+  },
+  {
+    "gloss": "letter",
+    "label": 57,
+    "detected": 18,
+    "fallback": 6,
+    "centre": 8,
+    "total": 32,
+    "det_rate": 0.5625,
+    "video_ok": true
+  },
+  {
+    "gloss": "go",
+    "label": 45,
+    "detected": 7,
+    "fallback": 16,
+    "centre": 9,
+    "total": 32,
+    "det_rate": 0.21875,
+    "video_ok": true
+  },
+  {
+    "gloss": "bed",
+    "label": 5,
+    "detected": 17,
+    "fallback": 7,
+    "centre": 8,
+    "total": 32,
+    "det_rate": 0.53125,
+    "video_ok": true
+  },
+  {
+    "gloss": "wrong",
+    "label": 97,
+    "detected": 16,
+    "fallback": 16,
+    "centre": 0,
+    "total": 32,
+    "det_rate": 0.5,
+    "video_ok": true
+  },
+  {
+    "gloss": "last",
+    "label": 55,
+    "detected": 12,
+    "fallback": 11,
+    "centre": 9,
+    "total": 32,
+    "det_rate": 0.375,
+    "video_ok": true
+  },
+  {
+    "gloss": "shirt",
+    "label": 79,
+    "detected": 21,
+    "fallback": 6,
+    "centre": 5,
+    "total": 32,
+    "det_rate": 0.65625,
+    "video_ok": true
+  },
+  {
+    "gloss": "last",
+    "label": 55,
+    "detected": 16,
+    "fallback": 11,
+    "centre": 5,
+    "total": 32,
+    "det_rate": 0.5,
+    "video_ok": true
+  },
+  {
+    "gloss": "cool",
+    "label": 25,
+    "detected": 8,
+    "fallback": 13,
+    "centre": 11,
+    "total": 32,
+    "det_rate": 0.25,
+    "video_ok": true
+  },
+  {
+    "gloss": "no",
+    "label": 65,
+    "detected": 26,
+    "fallback": 4,
+    "centre": 2,
+    "total": 32,
+    "det_rate": 0.8125,
+    "video_ok": true
+  },
+  {
+    "gloss": "pizza",
+    "label": 71,
+    "detected": 32,
+    "fallback": 0,
+    "centre": 0,
+    "total": 32,
+    "det_rate": 1.0,
+    "video_ok": true
+  },
+  {
+    "gloss": "doctor",
+    "label": 33,
+    "detected": 11,
+    "fallback": 13,
+    "centre": 8,
+    "total": 32,
+    "det_rate": 0.34375,
+    "video_ok": true
+  },
+  {
+    "gloss": "shirt",
+    "label": 79,
+    "detected": 14,
+    "fallback": 11,
+    "centre": 7,
+    "total": 32,
+    "det_rate": 0.4375,
+    "video_ok": true
+  },
+  {
+    "gloss": "cousin",
+    "label": 27,
+    "detected": 32,
+    "fallback": 0,
+    "centre": 0,
+    "total": 32,
+    "det_rate": 1.0,
+    "video_ok": true
+  },
+  {
+    "gloss": "letter",
+    "label": 57,
+    "detected": 20,
+    "fallback": 7,
+    "centre": 5,
+    "total": 32,
+    "det_rate": 0.625,
+    "video_ok": true
+  },
+  {
+    "gloss": "paper",
+    "label": 69,
+    "detected": 11,
+    "fallback": 16,
+    "centre": 5,
+    "total": 32,
+    "det_rate": 0.34375,
+    "video_ok": true
+  },
+  {
+    "gloss": "pull",
+    "label": 73,
+    "detected": 14,
+    "fallback": 9,
+    "centre": 9,
+    "total": 32,
+    "det_rate": 0.4375,
+    "video_ok": true
+  },
+  {
+    "gloss": "bed",
+    "label": 5,
+    "detected": 13,
+    "fallback": 19,
+    "centre": 0,
+    "total": 32,
+    "det_rate": 0.40625,
+    "video_ok": true
+  },
+  {
+    "gloss": "book",
+    "label": 11,
+    "detected": 15,
+    "fallback": 9,
+    "centre": 8,
+    "total": 32,
+    "det_rate": 0.46875,
+    "video_ok": true
+  },
+  {
+    "gloss": "eat",
+    "label": 36,
+    "detected": 12,
+    "fallback": 10,
+    "centre": 10,
+    "total": 32,
+    "det_rate": 0.375,
+    "video_ok": true
+  },
+  {
+    "gloss": "year",
+    "label": 98,
+    "detected": 29,
+    "fallback": 3,
+    "centre": 0,
+    "total": 32,
+    "det_rate": 0.90625,
+    "video_ok": true
+  },
+  {
+    "gloss": "like",
+    "label": 58,
+    "detected": 15,
+    "fallback": 9,
+    "centre": 8,
+    "total": 32,
+    "det_rate": 0.46875,
+    "video_ok": true
+  },
+  {
+    "gloss": "brown",
+    "label": 13,
+    "detected": 1,
+    "fallback": 14,
+    "centre": 17,
+    "total": 32,
+    "det_rate": 0.03125,
+    "video_ok": true
+  },
+  {
+    "gloss": "hearing",
+    "label": 48,
+    "detected": 22,
+    "fallback": 9,
+    "centre": 1,
+    "total": 32,
+    "det_rate": 0.6875,
+    "video_ok": true
+  },
+  {
+    "gloss": "city",
+    "label": 20,
+    "detected": 12,
+    "fallback": 13,
+    "centre": 7,
+    "total": 32,
+    "det_rate": 0.375,
+    "video_ok": true
+  },
+  {
+    "gloss": "short",
+    "label": 80,
+    "detected": 22,
+    "fallback": 6,
+    "centre": 4,
+    "total": 32,
+    "det_rate": 0.6875,
+    "video_ok": true
+  },
+  {
+    "gloss": "study",
+    "label": 82,
+    "detected": 24,
+    "fallback": 2,
+    "centre": 6,
+    "total": 32,
+    "det_rate": 0.75,
+    "video_ok": true
+  },
+  {
+    "gloss": "corn",
+    "label": 26,
+    "detected": 29,
+    "fallback": 3,
+    "centre": 0,
+    "total": 32,
+    "det_rate": 0.90625,
+    "video_ok": true
+  },
+  {
+    "gloss": "give",
+    "label": 44,
+    "detected": 21,
+    "fallback": 9,
+    "centre": 2,
+    "total": 32,
+    "det_rate": 0.65625,
+    "video_ok": true
+  },
+  {
+    "gloss": "thin",
+    "label": 87,
+    "detected": 2,
+    "fallback": 12,
+    "centre": 18,
+    "total": 32,
+    "det_rate": 0.0625,
+    "video_ok": true
+  },
+  {
+    "gloss": "play",
+    "label": 72,
+    "detected": 32,
+    "fallback": 0,
+    "centre": 0,
+    "total": 32,
+    "det_rate": 1.0,
+    "video_ok": true
+  },
+  {
+    "gloss": "study",
+    "label": 82,
+    "detected": 32,
+    "fallback": 0,
+    "centre": 0,
+    "total": 32,
+    "det_rate": 1.0,
+    "video_ok": true
+  },
+  {
+    "gloss": "bowling",
+    "label": 12,
+    "detected": 10,
+    "fallback": 22,
+    "centre": 0,
+    "total": 32,
+    "det_rate": 0.3125,
+    "video_ok": true
+  },
+  {
+    "gloss": "walk",
+    "label": 90,
+    "detected": 14,
+    "fallback": 11,
+    "centre": 7,
+    "total": 32,
+    "det_rate": 0.4375,
+    "video_ok": true
+  },
+  {
+    "gloss": "eat",
+    "label": 36,
+    "detected": 13,
+    "fallback": 11,
+    "centre": 8,
+    "total": 32,
+    "det_rate": 0.40625,
+    "video_ok": true
+  },
+  {
+    "gloss": "dark",
+    "label": 30,
+    "detected": 5,
+    "fallback": 7,
+    "centre": 20,
+    "total": 32,
+    "det_rate": 0.15625,
+    "video_ok": true
+  },
+  {
+    "gloss": "how",
+    "label": 51,
+    "detected": 32,
+    "fallback": 0,
+    "centre": 0,
+    "total": 32,
+    "det_rate": 1.0,
+    "video_ok": true
+  },
+  {
+    "gloss": "africa",
+    "label": 1,
+    "detected": 17,
+    "fallback": 12,
+    "centre": 3,
+    "total": 32,
+    "det_rate": 0.53125,
+    "video_ok": true
+  },
+  {
+    "gloss": "meet",
+    "label": 62,
+    "detected": 17,
+    "fallback": 8,
+    "centre": 7,
+    "total": 32,
+    "det_rate": 0.53125,
+    "video_ok": true
+  },
+  {
+    "gloss": "fine",
+    "label": 39,
+    "detected": 32,
+    "fallback": 0,
+    "centre": 0,
+    "total": 32,
+    "det_rate": 1.0,
+    "video_ok": true
+  },
+  {
+    "gloss": "purple",
+    "label": 74,
+    "detected": 19,
+    "fallback": 7,
+    "centre": 6,
+    "total": 32,
+    "det_rate": 0.59375,
+    "video_ok": true
+  },
+  {
+    "gloss": "same",
+    "label": 76,
+    "detected": 10,
+    "fallback": 14,
+    "centre": 8,
+    "total": 32,
+    "det_rate": 0.3125,
+    "video_ok": true
+  },
+  {
+    "gloss": "before",
+    "label": 6,
+    "detected": 20,
+    "fallback": 5,
+    "centre": 7,
+    "total": 32,
+    "det_rate": 0.625,
+    "video_ok": true
+  },
+  {
+    "gloss": "kiss",
+    "label": 53,
+    "detected": 20,
+    "fallback": 12,
+    "centre": 0,
+    "total": 32,
+    "det_rate": 0.625,
+    "video_ok": true
+  },
+  {
+    "gloss": "decide",
+    "label": 32,
+    "detected": 8,
+    "fallback": 13,
+    "centre": 11,
+    "total": 32,
+    "det_rate": 0.25,
+    "video_ok": true
+  },
+  {
+    "gloss": "purple",
+    "label": 74,
+    "detected": 8,
+    "fallback": 15,
+    "centre": 9,
+    "total": 32,
+    "det_rate": 0.25,
+    "video_ok": true
+  },
+  {
+    "gloss": "change",
+    "label": 18,
+    "detected": 27,
+    "fallback": 5,
+    "centre": 0,
+    "total": 32,
+    "det_rate": 0.84375,
+    "video_ok": true
+  },
+  {
+    "gloss": "later",
+    "label": 56,
+    "detected": 20,
+    "fallback": 7,
+    "centre": 5,
+    "total": 32,
+    "det_rate": 0.625,
+    "video_ok": true
+  },
+  {
+    "gloss": "need",
+    "label": 64,
+    "detected": 10,
+    "fallback": 13,
+    "centre": 9,
+    "total": 32,
+    "det_rate": 0.3125,
+    "video_ok": true
+  },
+  {
+    "gloss": "tall",
+    "label": 84,
+    "detected": 18,
+    "fallback": 9,
+    "centre": 5,
+    "total": 32,
+    "det_rate": 0.5625,
+    "video_ok": true
+  },
+  {
+    "gloss": "hot",
+    "label": 50,
+    "detected": 13,
+    "fallback": 13,
+    "centre": 6,
+    "total": 32,
+    "det_rate": 0.40625,
+    "video_ok": true
+  },
+  {
+    "gloss": "apple",
+    "label": 3,
+    "detected": 22,
+    "fallback": 5,
+    "centre": 5,
+    "total": 32,
+    "det_rate": 0.6875,
+    "video_ok": true
+  },
+  {
+    "gloss": "secretary",
+    "label": 78,
+    "detected": 32,
+    "fallback": 0,
+    "centre": 0,
+    "total": 32,
+    "det_rate": 1.0,
+    "video_ok": true
+  },
+  {
+    "gloss": "candy",
+    "label": 16,
+    "detected": 9,
+    "fallback": 8,
+    "centre": 15,
+    "total": 32,
+    "det_rate": 0.28125,
+    "video_ok": true
+  },
+  {
+    "gloss": "many",
+    "label": 60,
+    "detected": 18,
+    "fallback": 6,
+    "centre": 8,
+    "total": 32,
+    "det_rate": 0.5625,
+    "video_ok": true
+  },
+  {
+    "gloss": "apple",
+    "label": 3,
+    "detected": 4,
+    "fallback": 19,
+    "centre": 9,
+    "total": 32,
+    "det_rate": 0.125,
+    "video_ok": true
+  },
+  {
+    "gloss": "who",
+    "label": 94,
+    "detected": 12,
+    "fallback": 7,
+    "centre": 13,
+    "total": 32,
+    "det_rate": 0.375,
+    "video_ok": true
+  },
+  {
+    "gloss": "like",
+    "label": 58,
+    "detected": 32,
+    "fallback": 0,
+    "centre": 0,
+    "total": 32,
+    "det_rate": 1.0,
+    "video_ok": true
+  },
+  {
+    "gloss": "now",
+    "label": 66,
+    "detected": 15,
+    "fallback": 10,
+    "centre": 7,
+    "total": 32,
+    "det_rate": 0.46875,
+    "video_ok": true
+  },
+  {
+    "gloss": "table",
+    "label": 83,
+    "detected": 32,
+    "fallback": 0,
+    "centre": 0,
+    "total": 32,
+    "det_rate": 1.0,
+    "video_ok": true
+  },
+  {
+    "gloss": "pull",
+    "label": 73,
+    "detected": 12,
+    "fallback": 13,
+    "centre": 7,
+    "total": 32,
+    "det_rate": 0.375,
+    "video_ok": true
+  },
+  {
+    "gloss": "deaf",
+    "label": 31,
+    "detected": 14,
+    "fallback": 10,
+    "centre": 8,
+    "total": 32,
+    "det_rate": 0.4375,
+    "video_ok": true
+  },
+  {
+    "gloss": "full",
+    "label": 43,
+    "detected": 16,
+    "fallback": 2,
+    "centre": 14,
+    "total": 32,
+    "det_rate": 0.5,
+    "video_ok": true
+  },
+  {
+    "gloss": "corn",
+    "label": 26,
+    "detected": 12,
+    "fallback": 13,
+    "centre": 7,
+    "total": 32,
+    "det_rate": 0.375,
+    "video_ok": true
+  },
+  {
+    "gloss": "secretary",
+    "label": 78,
+    "detected": 12,
+    "fallback": 10,
+    "centre": 10,
+    "total": 32,
+    "det_rate": 0.375,
+    "video_ok": true
+  },
+  {
+    "gloss": "thanksgiving",
+    "label": 86,
+    "detected": 21,
+    "fallback": 6,
+    "centre": 5,
+    "total": 32,
+    "det_rate": 0.65625,
+    "video_ok": true
+  },
+  {
+    "gloss": "pizza",
+    "label": 71,
+    "detected": 19,
+    "fallback": 1,
+    "centre": 12,
+    "total": 32,
+    "det_rate": 0.59375,
+    "video_ok": true
+  },
+  {
+    "gloss": "thanksgiving",
+    "label": 86,
+    "detected": 20,
+    "fallback": 5,
+    "centre": 7,
+    "total": 32,
+    "det_rate": 0.625,
+    "video_ok": true
+  },
+  {
+    "gloss": "hot",
+    "label": 50,
+    "detected": 15,
+    "fallback": 11,
+    "centre": 6,
+    "total": 32,
+    "det_rate": 0.46875,
+    "video_ok": true
+  },
+  {
+    "gloss": "want",
+    "label": 91,
+    "detected": 23,
+    "fallback": 7,
+    "centre": 2,
+    "total": 32,
+    "det_rate": 0.71875,
+    "video_ok": true
+  },
+  {
+    "gloss": "woman",
+    "label": 95,
+    "detected": 12,
+    "fallback": 13,
+    "centre": 7,
+    "total": 32,
+    "det_rate": 0.375,
+    "video_ok": true
+  },
+  {
+    "gloss": "no",
+    "label": 65,
+    "detected": 30,
+    "fallback": 2,
+    "centre": 0,
+    "total": 32,
+    "det_rate": 0.9375,
+    "video_ok": true
+  },
+  {
+    "gloss": "candy",
+    "label": 16,
+    "detected": 10,
+    "fallback": 13,
+    "centre": 9,
+    "total": 32,
+    "det_rate": 0.3125,
+    "video_ok": true
+  },
+  {
+    "gloss": "eat",
+    "label": 36,
+    "detected": 14,
+    "fallback": 7,
+    "centre": 11,
+    "total": 32,
+    "det_rate": 0.4375,
+    "video_ok": true
+  },
+  {
+    "gloss": "candy",
+    "label": 16,
+    "detected": 19,
+    "fallback": 10,
+    "centre": 3,
+    "total": 32,
+    "det_rate": 0.59375,
+    "video_ok": true
+  },
+  {
+    "gloss": "brown",
+    "label": 13,
+    "detected": 7,
+    "fallback": 18,
+    "centre": 7,
+    "total": 32,
+    "det_rate": 0.21875,
+    "video_ok": true
+  },
+  {
+    "gloss": "go",
+    "label": 45,
+    "detected": 32,
+    "fallback": 0,
+    "centre": 0,
+    "total": 32,
+    "det_rate": 1.0,
+    "video_ok": true
+  },
+  {
+    "gloss": "bowling",
+    "label": 12,
+    "detected": 17,
+    "fallback": 5,
+    "centre": 10,
+    "total": 32,
+    "det_rate": 0.53125,
+    "video_ok": true
+  },
+  {
+    "gloss": "candy",
+    "label": 16,
+    "detected": 15,
+    "fallback": 7,
+    "centre": 10,
+    "total": 32,
+    "det_rate": 0.46875,
+    "video_ok": true
+  },
+  {
+    "gloss": "cousin",
+    "label": 27,
+    "detected": 9,
+    "fallback": 16,
+    "centre": 7,
+    "total": 32,
+    "det_rate": 0.28125,
+    "video_ok": true
+  },
+  {
+    "gloss": "son",
+    "label": 81,
+    "detected": 10,
+    "fallback": 16,
+    "centre": 6,
+    "total": 32,
+    "det_rate": 0.3125,
+    "video_ok": true
+  },
+  {
+    "gloss": "like",
+    "label": 58,
+    "detected": 14,
+    "fallback": 8,
+    "centre": 10,
+    "total": 32,
+    "det_rate": 0.4375,
+    "video_ok": true
+  },
+  {
+    "gloss": "city",
+    "label": 20,
+    "detected": 4,
+    "fallback": 12,
+    "centre": 16,
+    "total": 32,
+    "det_rate": 0.125,
+    "video_ok": true
+  },
+  {
+    "gloss": "pink",
+    "label": 70,
+    "detected": 7,
+    "fallback": 19,
+    "centre": 6,
+    "total": 32,
+    "det_rate": 0.21875,
+    "video_ok": true
+  },
+  {
+    "gloss": "clothes",
+    "label": 21,
+    "detected": 10,
+    "fallback": 10,
+    "centre": 12,
+    "total": 32,
+    "det_rate": 0.3125,
+    "video_ok": true
+  },
+  {
+    "gloss": "paper",
+    "label": 69,
+    "detected": 19,
+    "fallback": 8,
+    "centre": 5,
+    "total": 32,
+    "det_rate": 0.59375,
+    "video_ok": true
+  },
+  {
+    "gloss": "right",
+    "label": 75,
+    "detected": 19,
+    "fallback": 10,
+    "centre": 3,
+    "total": 32,
+    "det_rate": 0.59375,
+    "video_ok": true
+  },
+  {
+    "gloss": "school",
+    "label": 77,
+    "detected": 10,
+    "fallback": 16,
+    "centre": 6,
+    "total": 32,
+    "det_rate": 0.3125,
+    "video_ok": true
+  },
+  {
+    "gloss": "corn",
+    "label": 26,
+    "detected": 18,
+    "fallback": 14,
+    "centre": 0,
+    "total": 32,
+    "det_rate": 0.5625,
+    "video_ok": true
+  },
+  {
+    "gloss": "brown",
+    "label": 13,
+    "detected": 15,
+    "fallback": 10,
+    "centre": 7,
+    "total": 32,
+    "det_rate": 0.46875,
+    "video_ok": true
+  },
+  {
+    "gloss": "short",
+    "label": 80,
+    "detected": 11,
+    "fallback": 12,
+    "centre": 9,
+    "total": 32,
+    "det_rate": 0.34375,
+    "video_ok": true
+  },
+  {
+    "gloss": "corn",
+    "label": 26,
+    "detected": 10,
+    "fallback": 11,
+    "centre": 11,
+    "total": 32,
+    "det_rate": 0.3125,
+    "video_ok": true
+  },
+  {
+    "gloss": "black",
+    "label": 9,
+    "detected": 4,
+    "fallback": 20,
+    "centre": 8,
+    "total": 32,
+    "det_rate": 0.125,
+    "video_ok": true
+  },
+  {
+    "gloss": "orange",
+    "label": 67,
+    "detected": 9,
+    "fallback": 9,
+    "centre": 14,
+    "total": 32,
+    "det_rate": 0.28125,
+    "video_ok": true
+  },
+  {
+    "gloss": "thursday",
+    "label": 88,
+    "detected": 9,
+    "fallback": 12,
+    "centre": 11,
+    "total": 32,
+    "det_rate": 0.28125,
+    "video_ok": true
+  },
+  {
+    "gloss": "doctor",
+    "label": 33,
+    "detected": 21,
+    "fallback": 7,
+    "centre": 4,
+    "total": 32,
+    "det_rate": 0.65625,
+    "video_ok": true
+  },
+  {
+    "gloss": "hat",
+    "label": 47,
+    "detected": 13,
+    "fallback": 13,
+    "centre": 6,
+    "total": 32,
+    "det_rate": 0.40625,
+    "video_ok": true
+  },
+  {
+    "gloss": "accident",
+    "label": 0,
+    "detected": 21,
+    "fallback": 5,
+    "centre": 6,
+    "total": 32,
+    "det_rate": 0.65625,
+    "video_ok": true
+  },
+  {
+    "gloss": "cousin",
+    "label": 27,
+    "detected": 1,
+    "fallback": 21,
+    "centre": 10,
+    "total": 32,
+    "det_rate": 0.03125,
+    "video_ok": true
+  },
+  {
+    "gloss": "deaf",
+    "label": 31,
+    "detected": 32,
+    "fallback": 0,
+    "centre": 0,
+    "total": 32,
+    "det_rate": 1.0,
+    "video_ok": true
+  },
+  {
+    "gloss": "dark",
+    "label": 30,
+    "detected": 28,
+    "fallback": 4,
+    "centre": 0,
+    "total": 32,
+    "det_rate": 0.875,
+    "video_ok": true
+  },
+  {
+    "gloss": "medicine",
+    "label": 61,
+    "detected": 12,
+    "fallback": 12,
+    "centre": 8,
+    "total": 32,
+    "det_rate": 0.375,
+    "video_ok": true
+  },
+  {
+    "gloss": "shirt",
+    "label": 79,
+    "detected": 14,
+    "fallback": 12,
+    "centre": 6,
+    "total": 32,
+    "det_rate": 0.4375,
+    "video_ok": true
+  },
+  {
+    "gloss": "color",
+    "label": 22,
+    "detected": 16,
+    "fallback": 7,
+    "centre": 9,
+    "total": 32,
+    "det_rate": 0.5,
+    "video_ok": true
+  },
+  {
+    "gloss": "corn",
+    "label": 26,
+    "detected": 17,
+    "fallback": 8,
+    "centre": 7,
+    "total": 32,
+    "det_rate": 0.53125,
+    "video_ok": true
+  },
+  {
+    "gloss": "drink",
+    "label": 35,
+    "detected": 10,
+    "fallback": 18,
+    "centre": 4,
+    "total": 32,
+    "det_rate": 0.3125,
+    "video_ok": true
+  },
+  {
+    "gloss": "hat",
+    "label": 47,
+    "detected": 10,
+    "fallback": 10,
+    "centre": 12,
+    "total": 32,
+    "det_rate": 0.3125,
+    "video_ok": true
+  },
+  {
+    "gloss": "bed",
+    "label": 5,
+    "detected": 20,
+    "fallback": 6,
+    "centre": 6,
+    "total": 32,
+    "det_rate": 0.625,
+    "video_ok": true
+  },
+  {
+    "gloss": "year",
+    "label": 98,
+    "detected": 13,
+    "fallback": 13,
+    "centre": 6,
+    "total": 32,
+    "det_rate": 0.40625,
+    "video_ok": true
+  },
+  {
+    "gloss": "family",
+    "label": 38,
+    "detected": 12,
+    "fallback": 11,
+    "centre": 9,
+    "total": 32,
+    "det_rate": 0.375,
+    "video_ok": true
+  },
+  {
+    "gloss": "all",
+    "label": 2,
+    "detected": 22,
+    "fallback": 10,
+    "centre": 0,
+    "total": 32,
+    "det_rate": 0.6875,
+    "video_ok": true
+  },
+  {
+    "gloss": "can",
+    "label": 15,
+    "detected": 9,
+    "fallback": 12,
+    "centre": 11,
+    "total": 32,
+    "det_rate": 0.28125,
+    "video_ok": true
+  },
+  {
+    "gloss": "fish",
+    "label": 41,
+    "detected": 9,
+    "fallback": 12,
+    "centre": 11,
+    "total": 32,
+    "det_rate": 0.28125,
+    "video_ok": true
+  },
+  {
+    "gloss": "thin",
+    "label": 87,
+    "detected": 13,
+    "fallback": 9,
+    "centre": 10,
+    "total": 32,
+    "det_rate": 0.40625,
+    "video_ok": true
+  },
+  {
+    "gloss": "birthday",
+    "label": 8,
+    "detected": 32,
+    "fallback": 0,
+    "centre": 0,
+    "total": 32,
+    "det_rate": 1.0,
+    "video_ok": true
+  },
+  {
+    "gloss": "last",
+    "label": 55,
+    "detected": 24,
+    "fallback": 8,
+    "centre": 0,
+    "total": 32,
+    "det_rate": 0.75,
+    "video_ok": true
+  },
+  {
+    "gloss": "many",
+    "label": 60,
+    "detected": 9,
+    "fallback": 17,
+    "centre": 6,
+    "total": 32,
+    "det_rate": 0.28125,
+    "video_ok": true
+  },
+  {
+    "gloss": "family",
+    "label": 38,
+    "detected": 32,
+    "fallback": 0,
+    "centre": 0,
+    "total": 32,
+    "det_rate": 1.0,
+    "video_ok": true
+  },
+  {
+    "gloss": "corn",
+    "label": 26,
+    "detected": 12,
+    "fallback": 14,
+    "centre": 6,
+    "total": 32,
+    "det_rate": 0.375,
+    "video_ok": true
+  },
+  {
+    "gloss": "how",
+    "label": 51,
+    "detected": 14,
+    "fallback": 6,
+    "centre": 12,
+    "total": 32,
+    "det_rate": 0.4375,
+    "video_ok": true
+  },
+  {
+    "gloss": "paper",
+    "label": 69,
+    "detected": 10,
+    "fallback": 13,
+    "centre": 9,
+    "total": 32,
+    "det_rate": 0.3125,
+    "video_ok": true
+  },
+  {
+    "gloss": "forget",
+    "label": 42,
+    "detected": 12,
+    "fallback": 10,
+    "centre": 10,
+    "total": 32,
+    "det_rate": 0.375,
+    "video_ok": true
+  },
+  {
+    "gloss": "black",
+    "label": 9,
+    "detected": 15,
+    "fallback": 14,
+    "centre": 3,
+    "total": 32,
+    "det_rate": 0.46875,
+    "video_ok": true
+  },
+  {
+    "gloss": "like",
+    "label": 58,
+    "detected": 32,
+    "fallback": 0,
+    "centre": 0,
+    "total": 32,
+    "det_rate": 1.0,
+    "video_ok": true
+  },
+  {
+    "gloss": "city",
+    "label": 20,
+    "detected": 23,
+    "fallback": 4,
+    "centre": 5,
+    "total": 32,
+    "det_rate": 0.71875,
+    "video_ok": true
+  }
+]
